@@ -1,0 +1,136 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+
+
+  background-image: url(https://png.pngtree.com/58pic/32/77/72/31658PIC182sGqy258PICF58PIC2d_PIC2018.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #777;
+  background-color:grey!important;
+
+
+}
+.text-poppy-red {
+  color: #ef5350 !important;
+}
+.btn-poppy-red {
+  background-color: #ef5350 !important;
+}
+.bg-poppy-red {
+  background-color: #ef5350 !important;
+}
+.avatar {
+  /* cambia estos dos valores para definir el tamaño de tu círculo */
+  height: 80px;
+  width: 80px;
+  /* los siguientes valores son independientes del tamaño del círculo */
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+  align-content: center;
+  margin-top: 13px;
+  margin-left:12px;
+  margin-bottom: 12px;
+}
+.avatar2 {
+  /* cambia estos dos valores para definir el tamaño de tu círculo */
+  height: 100px;
+  width: 100px;
+  /* los siguientes valores son independientes del tamaño del círculo */
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+  align-content: center;
+  margin-top: 13px;
+  margin-left:12px;
+  margin-bottom: 12px;
+
+
+}
+.title {
+
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+
+.card-block {
+  font-size: 1em;
+  position: relative;
+  margin: 0;
+  padding: 1em;
+  border: none;
+  border-top: 1px solid rgba(34, 36, 38, .1);
+  box-shadow: none;
+
+}
+.card {
+  font-size: 1em;
+  overflow: hidden;
+  padding: 5;
+  border: none;
+  border-radius: .28571429rem;
+  box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+  margin-top:20px;
+}
+
+.carousel-indicators li {
+  border-radius: 12px;
+  width: 12px;
+  height: 12px;
+  background-color: #404040;
+}
+.carousel-indicators li {
+  border-radius: 12px;
+  width: 12px;
+  height: 12px;
+  background-color: #404040;
+}
+.carousel-indicators .active {
+  background-color: white;
+  max-width: 12px;
+  margin: 0 3px;
+  height: 12px;
+}
+.carousel-control-prev-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+
+
+
+.btn {
+margin-top: auto;
+}
+
+
+
+.opacity{
+  margin-left: 4%;
+  margin-right: 3%;
+  margin-top: 2%;
+ margin-bottom: 0%;
+  /*opacity:0.5; /* Opacidad 60% */
+
+  background-color:rgba(255,255,255,0.5)
+
+}
+
+.textoo{
+  color: black;
+  font-family: 'Bree Serif', serif;
+  font-style: normal !important;
+  text-align: center;
+}
+
+.cajetin{
+  align-items: center;
+  align-content: center;
+}
